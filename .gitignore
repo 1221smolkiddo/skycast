@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env
+
+# Database
+*.db
+
+# OS junk
+.DS_Store
